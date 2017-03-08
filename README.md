@@ -2,4 +2,6 @@
 
 First Repository
 
-*Initial Commit
+* Initial Commit
+* GDD(Game Design Document)
+* 
